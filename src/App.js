@@ -1,10 +1,10 @@
 
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="font-serif text-3xl text-green-400">
-      Hello All Welcome to Netflick
+    <div className="font-serif">
+     <Body />
     </div>
   );
 }
