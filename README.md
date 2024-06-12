@@ -12,4 +12,10 @@
   -redux store and slices
   -signout implemenattion
   -update Profile
+  -fix browse bugs
+  -getMovies From tmdb
+  -create movie slice
+  -create custom hooks
+  -Add trailer video key in redux store
+  
   
